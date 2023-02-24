@@ -29,3 +29,11 @@ e   PlatformIO
 
 - [@Klinsman](https://github.com/Klinsman21)
 
+
+## Hardware
+
+Tenha acesso ao esquema eletríco e a PCB do projeto
+https://wa.me/5588999590275
+
+
+
